@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="SnakeFX">
+    <output-path>$PROJECT_DIR$/out/artifacts/SnakeFX</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="grs.testepam.snake.Main" />
+        <option name="description" value="" />
+        <option name="htmlParamFile" value="" />
+        <option name="paramFile" value="" />
+        <option name="title" value="Snake" />
+        <option name="vendor" value="ram" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="SnakeFX.jar">
+        <element id="module-output" name="SnakeFX" />
+      </element>
+    </root>
+  </artifact>
+</component>
